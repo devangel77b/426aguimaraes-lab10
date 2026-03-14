@@ -1,0 +1,11 @@
+1. This is a review of "Mapping electric voltage across conductive 3D printed objects with deformities" by Guimaraes, Fuks, Lee, and Leung, submitted as a research article to J S&E. The manuscript examines use of voltage and conductivity non-destructively test for flaws in a 3D print. The abstract seems to shift focus from the title, however, and advertises using thin sheets of 3D printed plastic to "determine how the printing process may affect the voltage across the plastic" (which here is a conductive 3D printing thermoplastic material). Unfortunately, this manuscript should be rejected.
+
+2. The methods are not repeatable / replicable. No information is given on the parts, the infill pattterns, or the 3D print settings. No information is given on the printer used, though the manuscript says it is important. No STLs are provided or linked, no drawings (proper engineering drawings) or models are given other than a diagrammatic representation. Details of the power supply and meter are not given.
+
+3. No data are given. The results allude to "distinct pattern" but no pattern is given.
+
+4. Despite the title "Mapping electric voltage..." (electric voltage as a term is redundant) no maps are given. No data are given. Nothing is said about finding or identifying deformities. No guidance is given to those who wish to use conducting 3D print filament. No discussion is made of steps taken to try to make effective electrical contact with the material is given.
+
+5. Only one reference is provided to a general physics textbook.
+
+6. Though extension was given to obtain materials and collect data, this submission is well below the level of effort needed to be published.
